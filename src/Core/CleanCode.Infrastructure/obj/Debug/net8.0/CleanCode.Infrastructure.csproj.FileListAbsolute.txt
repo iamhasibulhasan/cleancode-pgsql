@@ -1,0 +1,11 @@
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\bin\Debug\net8.0\CleanCode.Infrastructure.deps.json
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\bin\Debug\net8.0\CleanCode.Infrastructure.dll
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\bin\Debug\net8.0\CleanCode.Infrastructure.pdb
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\CleanCode.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\CleanCode.Infrastructure.AssemblyInfoInputs.cache
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\CleanCode.Infrastructure.AssemblyInfo.cs
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\CleanCode.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\CleanCode.Infrastructure.dll
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\refint\CleanCode.Infrastructure.dll
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\CleanCode.Infrastructure.pdb
+D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\obj\Debug\net8.0\ref\CleanCode.Infrastructure.dll
