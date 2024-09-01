@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G7sHwV6/wUV19ysdLUxprYV3HgRJSOjQXB1mnFJGN++6AT+GHsZjsevLzgEZ3e/dz+iEe4PHxSXQfYTNxVR1xA==",
+  "dgSpecHash": "nsrmB7kqyQXD1WsguZjXFhfBJLXTZIrek84q0zEdvvfGhexlke4IsHJWQVfr0mPS+B/fgGdO3HvRhpoCMgw0Ug==",
   "success": true,
-  "projectFilePath": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj",
+  "projectFilePath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

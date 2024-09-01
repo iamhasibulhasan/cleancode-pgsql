@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CleanCode.Infrastructure
-build_property.ProjectDir = D:\CleanCode\CleanCode\src\Core\CleanCode.Infrastructure\
+build_property.ProjectDir = E:\Personal\cleancode-pgsql\src\Core\CleanCode.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

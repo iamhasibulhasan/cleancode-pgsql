@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj": {}
+    "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj": {}
   },
   "projects": {
-    "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj": {
+    "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj",
+        "projectUniqueName": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj",
         "projectName": "CleanCode.Domain",
-        "projectPath": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj",
+        "projectPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj",
         "packagesPath": "C:\\Users\\hasibulhasan\\.nuget\\packages\\",
-        "outputPath": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Domain\\obj\\",
+        "outputPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

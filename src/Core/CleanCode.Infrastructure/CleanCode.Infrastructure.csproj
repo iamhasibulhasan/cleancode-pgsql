@@ -6,4 +6,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanCode.Application\CleanCode.Application.csproj" />
+    <ProjectReference Include="..\CleanCode.Domain\CleanCode.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="RepositoryImplementations\" />
+    <Folder Include="ServiceImplementations\" />
+  </ItemGroup>
+
 </Project>
