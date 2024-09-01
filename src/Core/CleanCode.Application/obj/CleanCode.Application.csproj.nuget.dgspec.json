@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj": {}
+    "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj": {}
   },
   "projects": {
-    "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj": {
+    "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj",
+        "projectUniqueName": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj",
         "projectName": "CleanCode.Application",
-        "projectPath": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj",
+        "projectPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj",
         "packagesPath": "C:\\Users\\hasibulhasan\\.nuget\\packages\\",
-        "outputPath": "D:\\CleanCode\\CleanCode\\src\\Core\\CleanCode.Application\\obj\\",
+        "outputPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
