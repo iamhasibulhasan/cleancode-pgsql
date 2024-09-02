@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EkCZ1/ajjwAbmWQbuyApd2LL/8r9HnyRnJWm52r4ioFy0GfWPLEbsmtz9JJIgCpbwtTu4iO3h6nGzYQT1ZeCNw==",
+  "dgSpecHash": "Gz7prw02/S/wVskHRHLjStq80GThAC3uci+0eHrv0slar6sAQQ/GUbnLPilNIvhjpkb8SDYZgK8q7rJ6qdSsbw==",
   "success": true,
   "projectFilePath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj",
   "expectedPackageFiles": [

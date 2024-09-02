@@ -31,7 +31,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj": {
+                "projectPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

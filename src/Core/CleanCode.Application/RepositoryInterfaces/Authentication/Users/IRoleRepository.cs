@@ -1,9 +1,9 @@
 ﻿using CleanCode.Application.RepositoryInterfaces.Common;
-using CleanCode.Domain.Entities.Authentication.Users;
+using CleanCode.Domain.Entities.Authentication.Roles;
 
 namespace CleanCode.Application.RepositoryInterfaces.Authentication.Users
 {
-    public interface IApplicationUsersRepository : IGenericRepository<ApplicationUser>
+    public interface IRoleRepository : IGenericRepository<Role>
     {
     }
 }

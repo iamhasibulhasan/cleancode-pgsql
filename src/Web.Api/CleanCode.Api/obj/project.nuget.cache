@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cBVu9A4aVIAX4c4YwY2pgS7uUk4TqdybcSc826IbV+DfPzt4cV+4Re0I0yaNpMj+wbk915pqLd9EqKaAqTWeJQ==",
+  "dgSpecHash": "LI5lxGptNmjXepVI5ckict4Dw/EKGclSwDbc2bM8T+L7gzD8neIY9Pu0DU6v6Z8y8mceq5OmtsisyExXKXyQYA==",
   "success": true,
   "projectFilePath": "E:\\Personal\\cleancode-pgsql\\src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj",
   "expectedPackageFiles": [
