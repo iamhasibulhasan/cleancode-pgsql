@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ServiceImplementations\" />
+    <Folder Include="ServiceImplementations\Common\" />
   </ItemGroup>
 
 </Project>
