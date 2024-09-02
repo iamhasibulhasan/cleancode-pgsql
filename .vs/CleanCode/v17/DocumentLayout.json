@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "E:\\Personal\\cleancode-pgsql\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.application\\repositoryinterfaces\\authentication\\users\\iapplicationusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|solutionrelative:src\\core\\cleancode.application\\repositoryinterfaces\\authentication\\users\\iapplicationusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.infrastructure\\repositoryimplementations\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|solutionrelative:src\\core\\cleancode.infrastructure\\repositoryimplementations\\common\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.application\\repositoryinterfaces\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|solutionrelative:src\\core\\cleancode.application\\repositoryinterfaces\\common\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC4E05E6-6F56-4E94-BFA3-668E2E68407D}|src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj|e:\\personal\\cleancode-pgsql\\src\\web.api\\cleancode.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC4E05E6-6F56-4E94-BFA3-668E2E68407D}|src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj|solutionrelative:src\\web.api\\cleancode.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4E05E6-6F56-4E94-BFA3-668E2E68407D}|src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj|e:\\personal\\cleancode-pgsql\\src\\web.api\\cleancode.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EC4E05E6-6F56-4E94-BFA3-668E2E68407D}|src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj|solutionrelative:src\\web.api\\cleancode.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|solutionrelative:src\\core\\cleancode.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.infrastructure\\persistence\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.application\\repositoryinterfaces\\iwritedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|solutionrelative:src\\core\\cleancode.application\\repositoryinterfaces\\iwritedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.application\\repositoryinterfaces\\authentication\\users\\iapplicationusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14877F4F-2AC5-450A-BFC3-80753F504B5B}|src\\Core\\CleanCode.Application\\CleanCode.Application.csproj|solutionrelative:src\\core\\cleancode.application\\repositoryinterfaces\\authentication\\users\\iapplicationusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4E05E6-6F56-4E94-BFA3-668E2E68407D}|src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj|e:\\personal\\cleancode-pgsql\\src\\web.api\\cleancode.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4E05E6-6F56-4E94-BFA3-668E2E68407D}|src\\Web.Api\\CleanCode.Api\\CleanCode.Api.csproj|solutionrelative:src\\web.api\\cleancode.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD0C54C3-A334-4694-BF6A-5BEAE044B585}|src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj|solutionrelative:src\\core\\cleancode.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{735CEA88-3DAB-4853-ACDB-6791FF517105}|src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj|e:\\personal\\cleancode-pgsql\\src\\core\\cleancode.domain\\entities\\authentication\\roles\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,6 +143,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Infrastructure\\RepositoryImplementations\\Common\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanCode.Infrastructure\\RepositoryImplementations\\Common\\GenericRepository.cs",
+              "ToolTip": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Infrastructure\\RepositoryImplementations\\Common\\GenericRepository.cs",
+              "RelativeToolTip": "src\\Core\\CleanCode.Infrastructure\\RepositoryImplementations\\Common\\GenericRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA8wGUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:24:00.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\RepositoryInterfaces\\Common\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\CleanCode.Application\\RepositoryInterfaces\\Common\\IGenericRepository.cs",
+              "ToolTip": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\RepositoryInterfaces\\Common\\IGenericRepository.cs",
+              "RelativeToolTip": "src\\Core\\CleanCode.Application\\RepositoryInterfaces\\Common\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:23:36.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IApplicationUsersRepository.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\RepositoryInterfaces\\Authentication\\Users\\IApplicationUsersRepository.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Application\\RepositoryInterfaces\\Authentication\\Users\\IApplicationUsersRepository.cs",
@@ -147,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IWriteDbContext.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\RepositoryInterfaces\\IWriteDbContext.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Application\\RepositoryInterfaces\\IWriteDbContext.cs",
@@ -160,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Role.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\Entities\\Authentication\\Roles\\Role.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Domain\\Entities\\Authentication\\Roles\\Role.cs",
@@ -168,12 +202,11 @@
               "RelativeToolTip": "src\\Core\\CleanCode.Domain\\Entities\\Authentication\\Roles\\Role.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:58:20.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T11:58:20.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\Entities\\Authentication\\Users\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Domain\\Entities\\Authentication\\Users\\ApplicationUser.cs",
@@ -181,12 +214,11 @@
               "RelativeToolTip": "src\\Core\\CleanCode.Domain\\Entities\\Authentication\\Users\\ApplicationUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:55:07.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T11:55:07.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Domain\\Common\\BaseEntity.cs",
@@ -194,12 +226,11 @@
               "RelativeToolTip": "src\\Core\\CleanCode.Domain\\Common\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T11:53:26.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T11:53:26.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "WriteDbContext.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Infrastructure\\Persistence\\WriteDbContext.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Infrastructure\\Persistence\\WriteDbContext.cs",
@@ -212,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Web.Api\\CleanCode.Api\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Web.Api\\CleanCode.Api\\appsettings.json",
@@ -220,12 +251,11 @@
               "RelativeToolTip": "src\\Web.Api\\CleanCode.Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-01T11:26:18.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T11:26:18.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "src\\Core\\CleanCode.Infrastructure\\DependencyInjection.cs",
@@ -233,12 +263,11 @@
               "RelativeToolTip": "src\\Core\\CleanCode.Infrastructure\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T07:18:51.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T07:18:51.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Personal\\cleancode-pgsql\\src\\Web.Api\\CleanCode.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Web.Api\\CleanCode.Api\\Program.cs",
