@@ -3,6 +3,7 @@ using CleanCode.Domain.Entities.Authentication.Roles;
 using CleanCode.Domain.Entities.Authentication.Users;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace CleanCode.Infrastructure.Persistence
 {
@@ -19,5 +20,12 @@ namespace CleanCode.Infrastructure.Persistence
         #region Role
         public DbSet<Role> Roles { get; set; }
         #endregion Role
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+            base.OnModelCreating(builder);
+        }
     }
+
 }

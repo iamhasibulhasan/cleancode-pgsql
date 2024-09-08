@@ -56,6 +56,10 @@
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -178,9 +182,6 @@
             "projectReferences": {
               "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj": {
                 "projectPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Application\\CleanCode.Application.csproj"
-              },
-              "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj": {
-                "projectPath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Domain\\CleanCode.Domain.csproj"
               }
             }
           }
@@ -203,6 +204,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

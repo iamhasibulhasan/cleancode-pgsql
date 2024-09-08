@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "80dg/fxkBfvQPESOyn0zcWkqGv2pztK9dk/1MKsYAfSff32h6/Q/ozkdYVdER1BkE7HdUfg/ud2EASOTQ9CAmQ==",
+  "dgSpecHash": "shSGZNCL1HFr2mtpaEn7vmQ5Ndc0j6HnZ1oqCoHsYs8zBQGuKB1Ga+05w6YUQThlFsuD3NZamdiQx1g+0Gz2VA==",
   "success": true,
   "projectFilePath": "E:\\Personal\\cleancode-pgsql\\src\\Core\\CleanCode.Infrastructure\\CleanCode.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,9 @@
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.identity.core\\8.0.8\\microsoft.extensions.identity.core.8.0.8.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.identity.stores\\8.0.8\\microsoft.extensions.identity.stores.8.0.8.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
@@ -26,6 +29,7 @@
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.4\\npgsql.entityframeworkcore.postgresql.8.0.4.nupkg.sha512",
+    "C:\\Users\\hasibulhasan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\hasibulhasan\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

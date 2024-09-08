@@ -921,7 +921,8 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "CleanCode.Domain >= 1.0.0",
-      "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0"
+      "Microsoft.AspNetCore.Http.Abstractions >= 2.2.0",
+      "Microsoft.Extensions.DependencyInjection >= 8.0.0"
     ]
   },
   "packageFolders": {
@@ -980,6 +981,10 @@
           "Microsoft.AspNetCore.Http.Abstractions": {
             "target": "Package",
             "version": "[2.2.0, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[8.0.0, )"
           }
         },
         "imports": [

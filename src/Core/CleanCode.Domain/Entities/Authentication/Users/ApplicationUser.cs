@@ -10,6 +10,7 @@ namespace CleanCode.Domain.Entities.Authentication.Users
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Location { get; set; }
+        public string PhoneNumber { get; set; }
         public DateTime CreatedAt { get; set; }
         public int CreatedBy { get; set; }
         public DateTime? UpdatedAt { get; set; }
